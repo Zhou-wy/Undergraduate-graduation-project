@@ -4,9 +4,7 @@
 
 首先需安装树莓派官方系统，搭建好opencv和tensorflow开发环境；
 
-opencv安装方法请参考：
-
-[opencv安装方法]: 	"https://blog.csdn.net/leaves_joe/article/details/67656340?utm_source=app"
+opencv安装方法请参考：https://blog.csdn.net/leaves_joe/article/details/67656340?utm_source=app
 
 tensorflow安装方法：
 
